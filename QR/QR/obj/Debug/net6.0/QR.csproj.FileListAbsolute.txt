@@ -1,0 +1,36 @@
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.exe
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.deps.json
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.pdb
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\refint\QR.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.pdb
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\ref\QR.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\itextsharp.dll
+C:\Users\usuario\Desktop\Proyectos .NET\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.CopyComplete
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.exe
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.deps.json
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.runtimeconfig.json
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.dll
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\QR.pdb
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.AssemblyInfo.cs
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.csproj.CopyComplete
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.dll
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\refint\QR.dll
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.pdb
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\QR.genruntimeconfig.cache
+C:\Users\Nico\Desktop\.NET-API-con-JWT-Aplicacion-de-consola-generadora-de-QR\CONSOLA GENERA QR\QR\QR\obj\Debug\net6.0\ref\QR.dll
